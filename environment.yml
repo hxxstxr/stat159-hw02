@@ -1,0 +1,10 @@
+name: stat159-hw02
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.13
+  - pandas
+  - matplotlib
+  - quarto
